@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- My name
+- My age
+- My favourite color
